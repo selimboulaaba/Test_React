@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Classe A",
+        "nbrStudents": 78,
+        "progress": 32
+    },
+    {
+        "name": "Classe B",
+        "nbrStudents": 60,
+        "progress": 43
+    },
+    {
+        "name": "Classe C",
+        "nbrStudents": 80,
+        "progress": 67
+    },
+    {
+        "name": "Classe D",
+        "nbrStudents": 104,
+        "progress": 56
+    },
+    {
+        "name": "Classe E",
+        "nbrStudents": 86,
+        "progress": 86
+    },
+    {
+        "name": "Classe F",
+        "nbrStudents": 64,
+        "progress": 73
+    },
+    {
+        "name": "Classe G",
+        "nbrStudents": 78,
+        "progress": 35
+    }
+]
