@@ -2,12 +2,12 @@
 
 ## About
 
--Navigation components with nested routes
--Fullscreen toggle
--Calendar functionality with dynamic updates for the activities
--Filtering Top Scorers
--Animating the class progress circular charts on mounting
--Deployment to Vercel
+- Navigation components with nested routes
+- Fullscreen toggle
+- Calendar functionality with dynamic updates for the activities
+- Filtering Top Scorers
+- Animating the class progress circular charts on mounting
+- Deployment to Vercel
 
 ## Project Link
 
