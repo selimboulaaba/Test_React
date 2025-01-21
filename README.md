@@ -11,4 +11,4 @@
 
 ## Project Link
 
--You can access the project [here](/).
+-You can access the project [here](https://test-react-livid.vercel.app/).
