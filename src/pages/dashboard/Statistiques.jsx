@@ -236,7 +236,8 @@ function Statistiques() {
                                 chevron: `fill-white bg-[#584DE2] rounded-lg h-[20px] w-[50px]`,
                                 month_caption: 'text-[#655BE1] font-medium text-center mb-3',
                                 weekday: 'bg-[#695EFF] text-white rounded-xl h-[20px] text-xs font-thin',
-
+                                day: 'w-5 h-5 text-sm pl-2',
+                                months: 'w-full',
                             }}
                         />
                     </div>
