@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Jane Cooper",
+        "school": "St.Javidar School",
+        "progressThisYear": 99.99,
+        "img": "https://s3-alpha-sig.figma.com/img/9bbc/f2a8/f6d1f753b286332b007b2076174bf01a?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U2olT7qxItt9ADm~t~H7NZ8NGld19SafAkxT-jvs60IveGU1zOjYkpwLAPtKZarlqhdQwV4sb3Ep~oX6jVQjeM2nwVqzGWKbbwRB25I6Vo0mjV3s7POLB2tYtW1sp8qaAWKHs4HT3OOkko3QP7-NY522KfXVQreCZcc0gG~-p0TtNyrj-dSaHy~iblzHS7HVQ2XguhB7duPiqoBAlGB9sUKix0fI~Ww0xg-QFa3o4q21q7zrODuxhpIIo-ifyPRQmNLizxmuXvZspIjL~3yPKhn8Ya~bJXlw5ShQC9VTfltYkA1oGt-rgwErHpxg1eSbn2T~L3Be8R60nWsPvvS1gQ__",
+        "level": 5
+    },
+    {
+        "name": "Devon Lane",
+        "school": "Polar School",
+        "progressThisYear": 99.50,
+        "img": "https://s3-alpha-sig.figma.com/img/5824/acac/b3b76175bc84084ec18597109498f96d?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dCf7Ng3FwrZ4yeGGNqgK0fgkjti5Hw8ilLNLZ-LPK7b4WrdBYBhddVfOjkcv-6YnflNpvm32Bw1YPp3noNO~LfLAfqLJyI1wXN4avr0OWXQarjeCQNXMW2KYarsW3RVdcXOlHbmSQhvK6c0BgrR8vVpxWjiYxB6XgROp43pCQlG9SLPM24gnwVaKJKqh03gibwXCjyIeDe371b1ECXwls7IJd67zkVqG21~78eHQLNB-e9lt2PwwVj7p1BI3lwsN~ik2g04yzrRfzGgUNEhUcWuAdxeSabMHm5NVzb3YNiVOcHIcyGmxwU81SoWLB2kfsGlj8p7tw7sbgepSIhc-CQ__",
+        "level": 4
+    },
+    {
+        "name": "Eleanor Pena",
+        "school": "Polar School",
+        "progressThisYear": 99.76,
+        "img": "https://s3-alpha-sig.figma.com/img/9ef8/cb32/9b949267cc8214b6727067c4a13af4b4?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lyh0WxBMeUdnsXhtJw7k4JzXasdbRH5paDqOJsCTZFQRPHFR-4j8XXs-ig28ODTFQr2OGzwDN9lsHN6D-yNe6KnnXb-jJ~XYjPXeY28N4t2K1uyLsjqIz8IDc6CsTo9RCftByyvIKYflcw8TVUH60vgkYRJkOIakQjFKvnyqEW8MlQUARzDgLhJ8kX2GkKZBFDUr41hn5hKWzC0S4o-xYfOMnsUEWa6FUU4BsICfSDjeJ-INxwRJHJS91HOWbsA--9en1L6vjwKYbbXxfE87xIyab8lx7EqETeCrKQ5sTKPQtO8R1mPsTvHrlGzDFJdHq2abmX9ixRoahu1MJiVaIA__",
+        "level": 6
+    }
+]
