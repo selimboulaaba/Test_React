@@ -8,17 +8,47 @@ body {
   background-color: #534F89;
 }
 
-.custom-scroll::-webkit-scrollbar {
+.custom-scroll-classe::-webkit-scrollbar {
   width: 8px !important;
 }
-.custom-scroll::-webkit-scrollbar-thumb {
+.custom-scroll-classe::-webkit-scrollbar-thumb {
   background-color: #4f46e5 !important;
   border-radius: 4px !important;
 }
-.custom-scroll::-webkit-scrollbar-thumb:hover {
+.custom-scroll-classe::-webkit-scrollbar-thumb:hover {
   background-color: #4338ca !important;
 }
-.custom-scroll::-webkit-scrollbar-track {
+.custom-scroll-classe::-webkit-scrollbar-track {
   background-color: #DDDDDD !important;
   border-radius: 4px !important;
+}
+
+
+.custom-scroll-activity::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+.custom-scroll-activity::-webkit-scrollbar-thumb {
+  background-color: #FFD700 !important;
+  border-radius: 4px !important;
+  outline: 2px solid #FFE769 !important;
+  outline-offset: -1px !important;
+
+}
+
+.custom-scroll-activity::-webkit-scrollbar-thumb:hover {
+  background-color: #ebc800 !important;
+}
+
+.custom-scroll-activity::-webkit-scrollbar-track {
+  background-color: #FFFFFF !important;
+  border-radius: 4px !important;
+}
+
+
+
+.rdp-nav {
+  width: 100%;
+  justify-content: space-between;
+  margin-top: -10px !important
 }

@@ -5,7 +5,7 @@ import 'react-tooltip/dist/react-tooltip.css'
 
 function SlideBar() {
     return (
-        <div className='bg-white h-[calc(100vh-40px)] m-5 mr-0 rounded-xl border-[#584DE2] border-[3.47px] font-fredoka'>
+        <div className='flex flex-col bg-white h-[calc(100vh-40px)] m-5 mr-0 rounded-xl border-[#584DE2] border-[3.47px] font-fredoka'>
             <div className='mt-7'>
                 <svg width="111" height="67" viewBox="0 0 111 67" fill="none" xmlns="http://www.w3.org/2000/svg" className=' mx-auto'>
                     <rect x="8.56182" y="1.10385" width="101.162" height="59.3021" rx="7.84881" fill="#F4F4F4" fillOpacity="0.71" stroke="#584DE2" strokeWidth="1.74418" />
@@ -32,7 +32,7 @@ function SlideBar() {
             </div>
             <hr className='mt-7' />
 
-            <div className='mt-7 mx-[20px] w-[calc(100%-40px)] flex flex-col'>
+            <div className='flex-1 mt-7 mx-[20px] w-[calc(100%-40px)] flex flex-col'>
                 <div className='flex items-center justify-between gap-3 w-full bg-[#584DE2] hover:bg-[#473fb8] rounded-xl p-[20px] hover:cursor-pointer'>
                     <img className='w-12 aspect-square rounded-full border-[2px] border-white' src="https://s3-alpha-sig.figma.com/img/c841/e5b5/6e585c49e9d83c1c8193eb4f7160f0b1?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QuHvkBgNvqt-vydkcMbs1zCq1witYQJQUxfllBqg57PzmyzT3h~6AS92E5dKk1Tl7LJWBvHeMQyWWKb7QSGEOVEEWYCLEQ5A-~1OoDSk6oyP2LlFIBzLFJQMqC5bfykp5BDOc09AUekq8cxeJAy2OQ3JpvDh0DaJvwbD4SWeODs-~66IFqpBUVGFTzN7txQq1KTeSE44sbxtA-HwJGUVibsFoT-8oXPu5DIPCra2xvEBo6YtHFre6C65HmFJuw2apWxFNE5eSwb2BVJ4iR3QWHiOzbkuaReAD-ZDT7kuURN913jUEWqeaFetxqidckf-WITsEwqdPf9WuZlkelbkWA__" alt="profile pic" />
                     <div className='flex-1 text-left text-white'>
@@ -75,8 +75,9 @@ function SlideBar() {
                     <span className='flex-1 text-left font-medium text-white'>Statistiques</span>
                 </button>
 
+                <div className="flex-1"></div>
 
-                <button className="flex items-center gap-3 justify-between px-[20px] py-[14px] text-gray-500 hover:bg-gray-100 rounded-xl mt-auto">
+                <button className="mb-5 flex items-center gap-3 justify-between px-[20px] py-[14px] text-gray-500 hover:bg-gray-100 rounded-xl mt-auto">
                     <LogOut />
                     <span className='flex-1 text-left'>Se Déconnecter</span>
                 </button>
